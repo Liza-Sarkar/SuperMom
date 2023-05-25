@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Liza-Sarkar/SuperMom.git/static/css/main.44c71c29.css",
+    "main.js": "/Liza-Sarkar/SuperMom.git/static/js/main.238a3015.js",
+    "static/js/787.d7710f61.chunk.js": "/Liza-Sarkar/SuperMom.git/static/js/787.d7710f61.chunk.js",
+    "index.html": "/Liza-Sarkar/SuperMom.git/index.html",
+    "main.44c71c29.css.map": "/Liza-Sarkar/SuperMom.git/static/css/main.44c71c29.css.map",
+    "main.238a3015.js.map": "/Liza-Sarkar/SuperMom.git/static/js/main.238a3015.js.map",
+    "787.d7710f61.chunk.js.map": "/Liza-Sarkar/SuperMom.git/static/js/787.d7710f61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44c71c29.css",
+    "static/js/main.238a3015.js"
+  ]
+}
